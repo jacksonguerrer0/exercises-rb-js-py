@@ -31,9 +31,8 @@ Encuentra la lógica de las siguientes operaciones y números:
 
 {% tab title="Python" %}
   ```python
-  def hidden_math_operation(number1, number2):
-    return f"{number1 - number2}{number1 + number2}"
+
   ```
-  {% endtab %}
+{% endtab %}
 
 {% endtabs %}
