@@ -8,4 +8,6 @@ Lenguajes disponibles:
 - Javasrcipt
 - Python
 
-{iframe}(https://cdn.iframe.ly/MlDL0E2)
+
+Antes de continuar... Puedes usar el siguiente IDE online para resolver los ejercicios :)
+{% embed url="https://www.mycompiler.io/" %}
