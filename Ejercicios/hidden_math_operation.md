@@ -14,29 +14,21 @@ Encuentra la lógica de las siguientes operaciones y números:
 {% tabs %}
 
 {% tab title="Ruby" %}
-{% code title="javascript" overflow="wrap" lineNumbers="true" %}
-  ```javascript
-  ‌import * as React from 'react';
-  import ReactDOM from 'react-dom';
-  import App from './App';
-
-  ReactDOM.render(<App />, window.document.getElementById('root'));
+  ```ruby
+  puts "Solution"
   ```
-{% endcode %}
 {% endtab %}
 
 {% tab title="JavaScript" %}
   ```javascript
-  ‌import * as React from 'react';
-  import ReactDOM from 'react-dom';
-  import App from './App';
-
-  ReactDOM.render(<App />, window.document.getElementById('root'));
+  console.log('Solution')
   ```
 {% endtab %}
 
 {% tab title="Python" %}
-  Content for second tab .
-{% endtab %}
+  ```python
+  print "Solution..."
+  ```
+  {% endtab %}
 
 {% endtabs %}
