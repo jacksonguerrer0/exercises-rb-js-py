@@ -35,6 +35,6 @@ Encuentra la lógica de las siguientes operaciones y números:
   {% endtab %}
 
   {% tab title="Python" %}
-    Content for second tab ...
+    Content for second tab .
   {% endtab %}
 {% endtabs %}
