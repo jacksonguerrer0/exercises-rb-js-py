@@ -15,19 +15,24 @@ Encuentra la lógica de las siguientes operaciones y números:
 
 {% tab title="Ruby" %}
   ```ruby
-  puts "Solution"
+  def hidden_math_operation number1, number2
+    "#{number1 - number2}#{number1 + number2}"
+  end
   ```
 {% endtab %}
 
 {% tab title="JavaScript" %}
   ```javascript
-  console.log('Solution')
+  const hidden_math_operation = (number1, number2) => {
+    return `${number1 - number2}${number1 + number2}`
+  }
   ```
 {% endtab %}
 
 {% tab title="Python" %}
   ```python
-  print "Solution..."
+  def hidden_math_operation(number1, number2):
+    return f"{number1 - number2}{number1 + number2}"
   ```
   {% endtab %}
 
