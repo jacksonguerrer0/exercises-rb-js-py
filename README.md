@@ -1,13 +1,9 @@
-# Exercises with Ruby, JavaScript & Python
+# Ejercicios con Ruby, JavaScript & Python
 
-This repository has problems solved with different languages:
+Este repositorio contiene ejercicios lógicos con su respectiva solución con diferentes leguajes.
+
+Lenguajes disponibles:
 
 - Ruby
 - Javasrcipt
 - Python
-
-## Run Files
-
-- ruby `path file`
-- node `path file`
-- py `path file`
