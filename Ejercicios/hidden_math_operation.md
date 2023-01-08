@@ -12,29 +12,31 @@ Encuentra la lógica de las siguientes operaciones y números:
 ## Solución
 
 {% tabs %}
-  {% tab title="Ruby" %}
-    {% code title="javascript" overflow="wrap" lineNumbers="true" %}
-      ```javascript
-      ‌import * as React from 'react';
-      import ReactDOM from 'react-dom';
-      import App from './App';
 
-      ReactDOM.render(<App />, window.document.getElementById('root'));
-      ```
-    {% endcode %}
-  {% endtab %}
+{% tab title="Ruby" %}
+{% code title="javascript" overflow="wrap" lineNumbers="true" %}
+  ```javascript
+  ‌import * as React from 'react';
+  import ReactDOM from 'react-dom';
+  import App from './App';
 
-  {% tab title="JavaScript" %}
-    ```javascript
-    ‌import * as React from 'react';
-    import ReactDOM from 'react-dom';
-    import App from './App';
+  ReactDOM.render(<App />, window.document.getElementById('root'));
+  ```
+{% endcode %}
+{% endtab %}
 
-    ReactDOM.render(<App />, window.document.getElementById('root'));
-    ```
-  {% endtab %}
+{% tab title="JavaScript" %}
+  ```javascript
+  ‌import * as React from 'react';
+  import ReactDOM from 'react-dom';
+  import App from './App';
 
-  {% tab title="Python" %}
-    Content for second tab .
-  {% endtab %}
+  ReactDOM.render(<App />, window.document.getElementById('root'));
+  ```
+{% endtab %}
+
+{% tab title="Python" %}
+  Content for second tab .
+{% endtab %}
+
 {% endtabs %}
